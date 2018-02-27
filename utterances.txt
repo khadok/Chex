@@ -1,0 +1,4 @@
+GetChange {item} cheap or expensive
+GetChange cheap or expensive {item}
+GetChange expensive or cheap {item}
+GetChange expensive or cheap {item}
